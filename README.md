@@ -1,2 +1,2 @@
-# Android application for watching anime
+# Android application for watching movie
 # For practice purpose (webview)
